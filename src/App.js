@@ -7,5 +7,5 @@ function App() {
     </div>
   );
 }
-
+// default Apps.js
 export default App;
